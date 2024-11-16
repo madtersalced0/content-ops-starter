@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: não deixe o leão pra depois
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "Solicite e acompanhe o parcelamento das suas dívidas tributárias e multas na Receita Federal.\n\nVocê pode parcelar as dívidas junto a Receita Federal enquanto os débitos não forem enviados para inscrição em Dívida Ativa da União. Após o envio, o parcelamento deve ser solicitado junto a\_[Procuradoria-Geral da Fazenda Nacional](https://www.gov.br/pgfn/pt-br).\n\n\n\n"
     actions:
       - label: Get started
         altText: ''

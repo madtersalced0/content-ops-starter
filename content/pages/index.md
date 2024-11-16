@@ -38,7 +38,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ESTANDO EM DIA COM O FISCO
     items:
       - type: FeaturedItem
         title: 500k

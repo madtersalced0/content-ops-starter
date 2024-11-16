@@ -10,15 +10,6 @@ sections:
     subtitle: não deixe o leão pra depois
     text: "Solicite e acompanhe o parcelamento das suas dívidas tributárias e multas na Receita Federal.\n\nVocê pode parcelar as dívidas junto a Receita Federal enquanto os débitos não forem enviados para inscrição em Dívida Ativa da União. Após o envio, o parcelamento deve ser solicitado junto a\_[Procuradoria-Geral da Fazenda Nacional](https://www.gov.br/pgfn/pt-br).\n\n\n\n"
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
